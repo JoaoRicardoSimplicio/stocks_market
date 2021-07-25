@@ -1,0 +1,18 @@
+# Backend
+market-backend/database-market
+market-backend/env
+market-backend/myenv
+
+*.pyc
+*.pot
+*.log
+*/__pycache__
+market-backend/__pycache__
+market-backend/db.sqlite3
+market-backend/media
+
+# Frontend
+market-frontend/node_modules
+market-frontend/build
+
+*.log*                                                                                                                                                                              
